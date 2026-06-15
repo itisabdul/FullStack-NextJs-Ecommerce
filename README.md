@@ -1,4 +1,4 @@
-#### App is live and running at 
+#### Our App is live and running at 
 
 ### https://nextjs-ecommerce-typescript.vercel.app/
 
